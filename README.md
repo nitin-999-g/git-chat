@@ -143,7 +143,7 @@ This avoids rebuilding the index unnecessarily.
 
 ## 📝 Notes
 
-Git Chat is a lightweight learning and portfolio project focused on exploring **RAG over software repositories**.
+Git Chat is a project focused on exploring **RAG over software repositories**.
 
 The application runs locally and can use different compatible Ollama models depending on available hardware and desired response quality.
 
